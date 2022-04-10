@@ -1,0 +1,6 @@
+date = "Ngày"
+type_of_transaction = "Thu/chi"
+type_of_payment = "Tiền mặt/Ngân hàng"
+amount = "Số tiền"
+note = "Ghi chú"
+err = "Một (hoặc nhiều) trường bị bỏ trống. Vui lòng thử lại."
